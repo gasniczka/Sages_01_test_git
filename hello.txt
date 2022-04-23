@@ -1,2 +1,3 @@
 dopisuje pierwsza linie
-i druga linie
+i druga linia
+i trzecia linia
