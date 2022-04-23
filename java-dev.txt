@@ -1,2 +1,3 @@
 wpis z mastera
 wpis f0
+wpis z f1
